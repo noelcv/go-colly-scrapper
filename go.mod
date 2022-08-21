@@ -1,4 +1,4 @@
-module go-colly-scrapper
+module go-scrapper
 
 go 1.18
 
